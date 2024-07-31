@@ -1,1 +1,2 @@
-这个仓库用来备份Onyx的笔记。
+
+This repository is used to store notes from Onyx.
